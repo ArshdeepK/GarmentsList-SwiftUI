@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Garments
+
+  Created by Arshdeep on 25/02/24.
+  
+*/
+
+"No Items Available" = "No Items Available";
+"Items" = "Items";
+"Add Item" = "Add Item";
+"Item Name" = "Item Name";
+"Save" = "Save";
+"Alpha" = "Alpha";
+"Creation Time" = "Creation Time";

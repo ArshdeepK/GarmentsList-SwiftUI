@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2F0D161-023B-468A-B781-32444E7DE087"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6F34B60-76FE-43FC-9B7E-E477BAE19E10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ItemListView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(modelContext:sort:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6F34B60-76FE-43FC-9B7E-E477BAE19E10 - 7dd50b9bc7135579"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.init(modelContext: SwiftData.ModelContext, sort: Foundation.SortDescriptor&lt;Garments.Item&gt;) -&gt; Garments.ItemListView.ViewModel"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "B6F34B60-76FE-43FC-9B7E-E477BAE19E10 - 7dd50b9bc7135296"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.init(modelContext: SwiftData.ModelContext, sort: Foundation.SortDescriptor&lt;Garments.Item&gt;) -&gt; Garments.ItemListView.ViewModel"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "B6F34B60-76FE-43FC-9B7E-E477BAE19E10 - 7dd50b9bc7135296"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.init(modelContext: SwiftData.ModelContext, sort: Foundation.SortDescriptor&lt;Garments.Item&gt;) -&gt; Garments.ItemListView.ViewModel"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ACF702C-C0EF-4B27-BEE1-FAF2F0358644"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9ACF702C-C0EF-4B27-BEE1-FAF2F0358644 - d97e9399fed49268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Garments.ItemListView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "964">
+               </Location>
+               <Location
+                  uuid = "9ACF702C-C0EF-4B27-BEE1-FAF2F0358644 - d97e9399fed49268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Garments.ItemListView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BDB703D-D9A8-41D1-895F-AECE2E7DACF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(modelContext:sort:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BDB703D-D9A8-41D1-895F-AECE2E7DACF5 - 85d75590e1fa93c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.init(modelContext: SwiftData.ModelContext, sort: Foundation.SortDescriptor&lt;Garments.Item&gt;) -&gt; Garments.ItemListView"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "9BDB703D-D9A8-41D1-895F-AECE2E7DACF5 - 85d75590e1fa93c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.init(modelContext: SwiftData.ModelContext, sort: Foundation.SortDescriptor&lt;Garments.Item&gt;) -&gt; Garments.ItemListView"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "325A2486-0199-4B31-830C-1FB0BFC48DFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ItemListView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchItems()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "325A2486-0199-4B31-830C-1FB0BFC48DFC - 457a92f1191fa3c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.fetchItems() -&gt; ()"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "325A2486-0199-4B31-830C-1FB0BFC48DFC - 86990ce2a39df197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.fetchItems() -&gt; Swift.Array&lt;Garments.Item&gt;"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "325A2486-0199-4B31-830C-1FB0BFC48DFC - 457a92f1191fa21e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.fetchItems() -&gt; ()"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5934503-567E-4B00-A5AB-1870341F512B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B5934503-567E-4B00-A5AB-1870341F512B - 24a24445d9d35e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in Garments.ContentView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+               <Location
+                  uuid = "B5934503-567E-4B00-A5AB-1870341F512B - 24a24445d9d35e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in Garments.ContentView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41EAE9E2-CD0F-4D51-85DE-B05EFC4C18C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "41EAE9E2-CD0F-4D51-85DE-B05EFC4C18C9 - 1e4763b968054865"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Garments.Item&gt;, SwiftData.PersistentIdentifier, SwiftUI.Text&gt;&gt;, Garments.NoListView&gt; in Garments.ItemListView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "41EAE9E2-CD0F-4D51-85DE-B05EFC4C18C9 - b6e99e7947f7ed46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Garments.Item&gt;, SwiftData.PersistentIdentifier, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Garments.Item&gt;, SwiftData.PersistentIdentifier, SwiftUI.Text&gt;&gt;, Garments.NoListView&gt; in Garments.ItemListView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "41EAE9E2-CD0F-4D51-85DE-B05EFC4C18C9 - 1e4763b968054865"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Garments.Item&gt;, SwiftData.PersistentIdentifier, SwiftUI.Text&gt;&gt;, Garments.NoListView&gt; in Garments.ItemListView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0991FFEB-428D-482D-8CC9-CE0116CFB79D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ItemListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0991FFEB-428D-482D-8CC9-CE0116CFB79D - 1e4763b96805496d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Garments.Item&gt;, SwiftData.PersistentIdentifier, SwiftUI.Text&gt;&gt;, Garments.NoListView&gt; in Garments.ItemListView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "0991FFEB-428D-482D-8CC9-CE0116CFB79D - 1e4763b96805496d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;Garments.Item&gt;, SwiftData.PersistentIdentifier, SwiftUI.Text&gt;&gt;, Garments.NoListView&gt; in Garments.ItemListView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87B728DE-8C52-4FB0-9A17-C227586ABC8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ItemListView-ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchItems()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87B728DE-8C52-4FB0-9A17-C227586ABC8D - 457a92f1191fa0c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.fetchItems() -&gt; ()"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1992">
+               </Location>
+               <Location
+                  uuid = "87B728DE-8C52-4FB0-9A17-C227586ABC8D - 86990ce2a39df340"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.fetchItems() -&gt; Swift.Array&lt;Garments.Item&gt;"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1952">
+               </Location>
+               <Location
+                  uuid = "87B728DE-8C52-4FB0-9A17-C227586ABC8D - 457a92f1191fa0e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Garments.ItemListView.ViewModel.fetchItems() -&gt; ()"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ItemListView-ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "671C1672-7089-49A5-8D3D-28DE6A2AA4F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Garments/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "671C1672-7089-49A5-8D3D-28DE6A2AA4F1 - 24a24445d9d35e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in Garments.ContentView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+               <Location
+                  uuid = "671C1672-7089-49A5-8D3D-28DE6A2AA4F1 - 24a24445d9d35e40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in Garments.ContentView.body.getter : some"
+                  moduleName = "Garments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arshdeep/Desktop/Mac%20Mini%20Data%202024/Projects/ListFeatures/ListFeatures-swiftui/Garments/Garments/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
